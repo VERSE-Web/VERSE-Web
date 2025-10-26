@@ -93,3 +93,10 @@ Let’s make mistakes and learn together!
 ---
 
 > “Code like nobody’s watching. Because, most of the time, nobody is.”
+
+## Special Thanks to:
+
+<img src="./assets/programinghero.png" alt="PH Course" width="1000" height="950">
+
+> “People Say School Is the Funnest parts of out life, But for me This course teaching me so many Important principle i enjoy was the funnest. Thanks you Jhanker Sir and the PH team”
+> —— A Student
