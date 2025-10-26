@@ -50,7 +50,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 <img src="./assets/gnometerminal.svg" alt="CMD" width="40" height="40"> <h1>CMD</h1>
 
 ## Spread Out
-<img src="./assets/Grsph.png" alt="A graph" width="150" height="150"> 
+<img src="./assets/Grsph.png" alt="A graph" width="150" height="150"/> 
 
 *Full-stack dabbling: front to back, side to side, upside down… still figuring stuff out 😅*
 
