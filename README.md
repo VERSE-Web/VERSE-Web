@@ -55,7 +55,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 
 ## 🌎 Find Me Elsewhere
 
-- [Instagram](https://www.instagram.com/casualf1_fan/) — memes, code, and F1 rants  
+<!-- - [Instagram](https://www.instagram.com/casualf1_fan/) — memes, code, and F1 rants  -->
 - [GitHub](https://github.com/VERSE-Web/) — obviously  
 - [TikTok](https://www.tiktok.com/@user798471769112) — cringe and code  
 - [Spotify](https://open.spotify.com/user/31anjyuxi4npl4rbc4ha3xjkl4ze?si=4b81b45f0d18481b) — my questionable music taste
