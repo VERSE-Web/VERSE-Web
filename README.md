@@ -42,12 +42,16 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 ## 🛠️ Tech Stack / Languages I Know
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> Java Script
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> HTML
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> CSS
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git
-<img src="./assets/gnometerminal.svg" alt="CMD" width="40" height="40"> CMD
 
 ## Spread Out
 <img src="./assets/Graph.png" alt="A graph" width="1000" height="1000"/> 
