@@ -1,4 +1,4 @@
-<img src="./assets/willsmurf.png" alt="Will smurf" width="1000" height="150">
+<img src="./assets/willsmurf.png" alt="Will smurf" width="1000" height="500">
 
 ---
 ```js
