@@ -41,7 +41,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 
 ## 🛠️ Tech Stack / Languages I Know
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> PY (Python)
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JS (Java Script)
@@ -53,7 +53,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> CSS (Cascading Style Sheets)
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js (yep this is it... Why are u still here.)
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git (Global Information Tracker)
