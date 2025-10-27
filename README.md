@@ -1,4 +1,6 @@
+<img src="./assets/willsmurf.png" alt="Will smurf" width="1000" height="150">
 
+---
 ```js
 console.log("👋hello i'm VERSE-Web"); //using "" instead of '' because the ' in I'm would interfere.
 ```
