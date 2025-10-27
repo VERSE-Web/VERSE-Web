@@ -3,7 +3,7 @@
 console.log("👋hello i'm VERSE-Web"); //using "" instead of '' because the ' in I'm would interfere.
 ```
 ```py
-print("I'm 14 years old, And you can learn other stuff about me below. :3")
+print("I'm 14 years old, And you can learn other stuff about me below. :3") # The :3 was a joke bro don't mind.
 ```
 
 > *Self-proclaimed boring, dumb, and totally into codding/osinting. Welcome, fellow newbies and code explorers!*
