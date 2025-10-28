@@ -84,6 +84,11 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 - “I’m boring, dumb and I like codding/osinting.”  
 - I believe every expert was once a beginner (and probably still is deep down).  
 - Ask me about my latest bug—seriously, I could use the help.
+- Yes, I'm a car guy.
+- My favaourite car is the 2019 C7 ZR1 Corvete.
+- Manual > Auto
+- Yes a "QT 5.0L W16 AWD with an LSD and 4WS" makes sense... The fuck u mean no it doesn't.
+
 
 ---
 
