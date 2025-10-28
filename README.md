@@ -58,7 +58,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> Node.js (yep this is it... Why are u still here.)
 <br />
 <br />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git (Global Information Tracker. HOLY RANDOM A## NAME.)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git (Global Information Tracker. HOLY STAGED A## NAME.)
 
 ## Spread Out
 <img src="./assets/Graph.png" alt="A graph" width="1000" height="1000"/> 
