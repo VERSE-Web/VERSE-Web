@@ -87,7 +87,7 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 - Yes, I'm a car guy.
 - My favaourite car is the 2019 C7 ZR1 Corvete.
 - Manual > Auto
-- Yes a "QT 5.0L W16 AWD with an LSD and 4WS" makes sense... The fuck u mean no it doesn't.
+- Yes a "QT 5.0L W16 AWD with an LSD and 4WS with Sequential" makes sense... The fuck u mean no it doesn't.
 
 
 ---
