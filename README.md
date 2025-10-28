@@ -59,6 +59,9 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 <br />
 <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> Git (Global Information Tracker. HOLY STAGED A## NAME.)
+<br />
+<br />
+<img src="./assets/terminal.png" alt="CMD??" width="40" height="40"/> CMD (Command Prompt. Yes the windows CMD... No i don't use Arch.) 
 
 ## Spread Out
 <img src="./assets/Graph.png" alt="A graph" width="1000" height="1000"/> 
