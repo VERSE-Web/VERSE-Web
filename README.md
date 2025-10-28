@@ -109,5 +109,5 @@ Let’s make mistakes and learn together!
 
 <h1 align="center">by</h1>
 <div align="center">
-    <img src="./assets/image.png" width="50" height="50">
+    <img src="./assets/image.png" width="100" height="100">
 </div>
