@@ -9,14 +9,14 @@ print("Hello! I'm VERSE-Web, But Profesionally You can call me Mehran-ul Islam")
 - In recent years AI has made people call them selves "Coders/Programers", while they Don't know what a temporal dead zone is, I wanted to learn properly and not follow the crowd
 - My goal is to become a web developer — something uncommon in my country — and carve my own path.
 
-  ## My skills
+## My skills
 
-  ### I am Proefficient in Many Programming languages, Many of them are Front-end focused. These Front-End Focused languages are as follows:
+### I am Proefficient in Many Programming languages, Many of them are Front-end focused. These Front-End Focused languages are as follows:
 
-  - HTML
-  - CSS
-  - JS
-  - Basic React.
+- HTML
+- CSS
+- JS
+- Basic React.
 
 ### Along with these basic Front-end Languages i have also learned `Python` in my early stages
 
