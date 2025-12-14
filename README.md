@@ -73,5 +73,6 @@ What I’m looking for:
 
 ---
 <div style="text-align: center;">
-   <img src="./assets/image.png" alt="My Profile Picture" style="width: 100px; height: 100px;">
+   <img src="./assets/image.png" alt="My Profile Picture" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
+
 </div>
