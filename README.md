@@ -72,6 +72,6 @@ What I’m looking for:
 > ———— Mehran-Ul Islam
 
 ---
-<div style="display: flex; justify-content: center; align-items: center;">
-   <img src="./assets/image.png" alt="my Profile picture" style="width: 50px; height: 50px;">
+<div style="text-align: center;">
+   <img src="./assets/image.png" alt="My Profile Picture" style="width: 100px; height: 100px;">
 </div>
