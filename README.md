@@ -70,3 +70,13 @@ What I’m looking for:
 > **Always remember you're not alone, the problems, weather it's personal or coding wise someone else on the globe is facing the same problem. not being in the light, thus we have to help each other get on our feets**
 >
 > ———— Mehran-Ul Islam
+
+---
+
+## 📫 Contact Me
+
+You can reach me through any of these:
+
+- **Email:** [mehranislam111@gmail.com](mailto:mehranislam111@gmail.com)  
+- **GitHub:** [VERSE-Web](https://github.com/VERSE-Web)  
+- **Twitter/X:** [@ImJusthere89456]((https://x.com/ImJusthere89456)) 
