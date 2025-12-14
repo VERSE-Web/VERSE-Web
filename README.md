@@ -70,6 +70,3 @@ What I’m looking for:
 > **Always remember you're not alone, the problems, weather it's personal or coding wise someone else on the globe is facing the same problem. not being in the light, thus we have to help each other get on our feets**
 >
 > ———— Mehran-Ul Islam
-
----
-<img src="./assets/image.png" alt="My Profile Picture" style="display: block; margin: 0 auto; width: 100px; height: 100px;">
