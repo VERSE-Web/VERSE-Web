@@ -91,7 +91,7 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 ## *&*
 
-> *[Interlude: George W. Bush]*
+> *[Interlude: George W. Bush]* <br>
 > *There's an old saying in Tennessee—I know it's in Texas, probably in Tennessee—that says, fool me once... shame on... shame on you*
 > *Fool me—can't get fooled again*
 > ——— J.Cole
