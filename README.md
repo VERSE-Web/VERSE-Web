@@ -47,7 +47,25 @@ What I’m looking for:
 
 ### My project embodies that same spirit. We aim to move lightly, adapt quickly, and hit hard when it matters. Every line of code, every feature, and every collaboration is designed to maximize impact while keeping the workflow agile and elegant. Here, precision meets creativity—just like Ali in the ring.
 
-## And always remember
+---
+
+## 📫 Contact Me
+
+You can reach me through any of these:
+
+- **Email:** [mehranislam111@gmail.com](mailto:mehranislam111@gmail.com)  
+- **GitHub:** [VERSE-Web](https://github.com/VERSE-Web)  
+- **Twitter/X:** [@ImJusthere89456]((https://x.com/ImJusthere89456))
+  
+---
+
+## 🎵 Music Quoted
+
+Music plays a big role in how I think, work, and stay motivated while coding.  
+Some lyrics and themes stick with me the same way good code does — simple, intentional, and impactful.
+
+# See You Again(feat. Charlie Puth)
+
 > *First, you both go out your way and the vibe is feelin' strong*
 > *And what's small turned to a friendship, a friendship turned to a bond*
 > *And that bond'll never be broken, the love will never get lost*
@@ -63,6 +81,40 @@ What I’m looking for:
 > 
 > ——— Wiz Khalifa & Charlie Puth
 
+# No Role Modelz
+
+> *No role models, and I'm here right now*
+> *No role models to speak of*
+> *Searchin' through my memory, my memory, I couldn't find one*
+>
+> ——— J.Cole
+
+## *&*
+
+> *[Interlude: George W. Bush]*
+> *There's an old saying in Tennessee—I know it's in Texas, probably in Tennessee—that says, fool me once... shame on... shame on you*
+> *Fool me—can't get fooled again*
+> ——— J.Cole
+
+# Euphoria
+
+> *I make music that electrify 'em, you make music that pacify 'em*
+> *I can double down on that line, but spare you this time, that's random acts of kindness
+> *Know you a master manipulator and habitual liar too*
+> *But don't tell no lie about me and I won't tell truths 'bout you*
+>
+> ——— Kendrick Lamar
+
+# Pride
+
+> *Love's gonna get you killed*
+> *But pride’s gonna be the death of you and you and me*
+> *And you and you and you and me*
+> *And you and you and you and me*
+> *And you and you and you and me and—*
+>
+> ——— Kendrick Lamar
+
 ---
 
 # Some words from me
@@ -72,11 +124,3 @@ What I’m looking for:
 > ———— Mehran-Ul Islam
 
 ---
-
-## 📫 Contact Me
-
-You can reach me through any of these:
-
-- **Email:** [mehranislam111@gmail.com](mailto:mehranislam111@gmail.com)  
-- **GitHub:** [VERSE-Web](https://github.com/VERSE-Web)  
-- **Twitter/X:** [@ImJusthere89456]((https://x.com/ImJusthere89456)) 
