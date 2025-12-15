@@ -93,27 +93,27 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 > *[Interlude: George W. Bush]* <br>
 > *There's an old saying in Tennessee—I know it's in Texas, probably in Tennessee—that says, fool me once... shame on... shame on you*
-> *Fool me—can't get fooled again*
+> *Fool me—can't get fooled again* <br>
 > ——— J.Cole
 
 # Euphoria
 
-> *I make music that electrify 'em, you make music that pacify 'em*
-> *I can double down on that line, but spare you this time, that's random acts of kindness
-> *Know you a master manipulator and habitual liar too*
-> *But don't tell no lie about me and I won't tell truths 'bout you*
+> *I make music that electrify 'em, you make music that pacify 'em* <br>
+> *I can double down on that line, but spare you this time, that's random acts of kindness* <br>
+> *Know you a master manipulator and habitual liar too* <br>
+> *But don't tell no lie about me and I won't tell truths 'bout you* <br>
 >
 > ——— Kendrick Lamar
 
 # Pride
 
-> *Love's gonna get you killed*
-> *But pride’s gonna be the death of you and you and me*
-> *And you and you and you and me*
-> *And you and you and you and me*
-> *And you and you and you and me and—*
+> *Love's gonna get you killed* <br>
+> *But pride’s gonna be the death of you and you and me* <br>
+> *And you and you and you and me* <br>
+> *And you and you and you and me* <br>
+> *And you and you and you and me and—* <br>
 >
-> ——— Kendrick Lamar
+> ——— Kendrick Lamar 
 
 ---
 
