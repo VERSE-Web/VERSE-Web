@@ -128,4 +128,4 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 # What i listen to while coding
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4awOClHdYPU0IXps8iDcmb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Code (Till Freedom)](https://i.imgur.com/playlist-preview.png)](https://open.spotify.com/playlist/4awOClHdYPU0IXps8iDcmb?utm_source=generator)
