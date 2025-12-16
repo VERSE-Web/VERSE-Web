@@ -126,6 +126,11 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 ---
 
-# What i listen to while coding
+# What i=I listen to while coding
 
-[![Code (Till Freedom)](https://i.imgur.com/playlist-preview.png)](https://open.spotify.com/playlist/4awOClHdYPU0IXps8iDcmb?utm_source=generator)
+🎵 [Code (Till Freedom)](https://open.spotify.com/playlist/4awOClHdYPU0IXps8iDcmb?si=4418f5b2e83a430f)
+
+## &
+
+# What I listen to while gaming
+🎶 [Drive](https://open.spotify.com/playlist/4MwCKnw5x0rDp9RvuKXIef?si=25d2f5b5fa85449e&pt=6fa0d1a2bbd3b7f80848686e3570fc8f)
