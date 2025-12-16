@@ -55,7 +55,8 @@ You can reach me through any of these:
 
 - **Email:** [mehranislam111@gmail.com](mailto:mehranislam111@gmail.com)  
 - **GitHub:** [VERSE-Web](https://github.com/VERSE-Web)  
-- **Twitter/X:** [ImJusthere89456]((https://x.com/ImJusthere89456))
+- **Twitter/X:** [@ImJusthere89456](https://x.com/ImJusthere89456)
+- **Discord: Boeing.777_200**
   
 ---
 
