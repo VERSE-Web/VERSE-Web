@@ -18,7 +18,7 @@ print("Hello! I'm VERSE-Web, But Profesionally You can call me Mehran-ul Islam")
 - JS
 - Basic React.
 
-### Along with these basic Front-end Languages i have also learned `Python` in my early stages
+### Along with these basic Front-end Languages i have also learned ```Python``` in my early stages
 
 ---
 
