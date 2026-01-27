@@ -127,6 +127,5 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 ---
 
 # What I listen to while coding
-
-##🎵 [slow down and listen](https://open.spotify.com/playlist/57egZxnlYGcxiHFuXfKEDt?si=6c5dc4cc230843f0)
+ - 🎵 [slow down and listen](https://open.spotify.com/playlist/57egZxnlYGcxiHFuXfKEDt?si=6c5dc4cc230843f0)
 
