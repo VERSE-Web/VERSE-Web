@@ -40,9 +40,7 @@ What I’m looking for:
 > 
 ---
 ### Proud Owner Of
-<a href="https://github.com/Atomos-Js/Atomos/">
-  <h1>Atomos</h1>
-</a>
+- [Atomos](https://github.com/Atomos-Js/Atomos/)
 ---
 ## I belive in the statement
 > **Float Like A Butterfly, Sting em' like a Bee.
