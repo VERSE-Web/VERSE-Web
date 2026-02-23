@@ -37,9 +37,13 @@ What I’m looking for:
 - Long-term collaboration opportunities if the project continues to grow.  
 
 > *If you have a project that could use a frontend touch, don’t hesitate to reach out. Let’s build something clean, functional, and awesome together!*
-
+> 
 ---
-
+### Proud Owner Of
+<a href="https://github.com/Atomos-Js/Atomos/">
+  <h1>Atomos</h1>
+</a>
+---
 ## I belive in the statement
 > **Float Like A Butterfly, Sting em' like a Bee.
 >
