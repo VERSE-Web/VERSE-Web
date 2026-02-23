@@ -62,7 +62,8 @@ You can reach me through any of these:
   
 ---
 
-## 🎵 Music Quoted
+<details>
+<summary><b>Click to see what's playing in the lab...</b></summary>
 
 Music plays a big role in how I think, work, and stay motivated while coding.  
 Some lyrics and themes stick with me the same way good code does — simple, intentional, and impactful.
@@ -118,6 +119,8 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 >
 > ——— Kendrick Lamar 
 
+</details>
+
 ---
 
 # Some words from me
@@ -128,6 +131,15 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 ---
 
-# What I listen to while coding
- - 🎵 [slow down and listen](https://open.spotify.com/playlist/57egZxnlYGcxiHFuXfKEDt?si=6c5dc4cc230843f0)
+# Random Things about me
 
+## I tried out music...
+
+### Yes you can make out how it probably sounds. i mean it's ehhh at best
+### If you wana check it out:
+- [Youtube](https://www.youtube.com/@Profesional-Max-glazer)
+
+### I Play A Lot Of Racing Games
+### You can check out my Steam Profile:
+- [Steam](https://steamcommunity.com/profiles/76561199658449613/)
+- [My Sim Racing Playlist](https://open.spotify.com/playlist/04gFj1pvCbUBSkfMTuxBN1)
