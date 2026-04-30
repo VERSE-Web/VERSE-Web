@@ -133,13 +133,8 @@ Some lyrics and themes stick with me the same way good code does — simple, int
 
 # Random Things about me
 
-## I tried out music...
-
-### Yes you can make out how it probably sounds. i mean it's ehhh at best
-### If you wana check it out:
-- [Youtube](https://www.youtube.com/@Profesional-Max-glazer)
-
 ### I Play A Lot Of Racing Games
 ### You can check out my Steam Profile:
 - [Steam](https://steamcommunity.com/profiles/76561199658449613/)
 - [My Sim Racing Playlist](https://open.spotify.com/playlist/04gFj1pvCbUBSkfMTuxBN1)
+- [Main Playlist](https://open.spotify.com/playlist/1lRryMwHbDLWPxxWPdgGOl?si=i0_rjcWVRS-aCLKDQLBOCw)
