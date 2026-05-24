@@ -16,7 +16,8 @@ print("Hello! I'm VERSE-Web, But Profesionally You can call me Mehran-ul Islam")
 - HTML
 - CSS
 - JS
-- Basic React.
+- React
+- React router (Yes this counts its just as complicated)
 
 ### Along with these basic Front-end Languages i have also learned ```Python``` in my early stages
 
