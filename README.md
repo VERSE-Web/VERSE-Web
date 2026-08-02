@@ -1,4 +1,4 @@
-```
+```py
 print("Hello! I'm Mehran Ul Islam, but you can call me Mehrooons")
 ```
 
